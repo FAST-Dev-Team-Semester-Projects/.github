@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-This is the official GitHub organisation for the **FAST Dev Team** — a group of Computer Science students from **FAST NUCES Karachi**.
+This is the GitHub organisation for the **FAST Dev Team** — a group of Computer Science students from **FAST NUCES Karachi**.
 
-We use this space to host and document our **university semester projects** across different courses.
+We collaborate on **university semester projects** across different courses, demonstrating our progression from fundamental programming concepts to advanced database systems and full-stack development.
 
-### Projects Include:
-- Pac-Man Game (C) – Programming Fundamentals
-- Task Management System (C++) – Object Oriented Programming
-- Scientific Calculator (Assembly + C++) – Computer Organization and Assembly Language
+### Featured Projects
 
-This organisation is focused solely on academic collaboration. For details, see individual repositories.
+- **Pac-Man Game (C)** – Programming Fundamentals
+- **Task Management System (C++)** – Object Oriented Programming
+- **Scientific Calculator (Assembly + C++)** – Computer Organization and Assembly Language
+- **Karachi Smart Transit System (MySQL, Flask, React)** – Database Systems
+
+### Academic Showcase
+
+This organisation showcases our **academic coursework** and serves as a central hub for our semester projects. For detailed documentation, source code, and project specifics, please visit the individual repositories.
